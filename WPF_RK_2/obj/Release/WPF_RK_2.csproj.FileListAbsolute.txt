@@ -1,0 +1,12 @@
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\bin\Release\WPF_RK_2.exe.config
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\bin\Release\WPF_RK_2.exe
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\bin\Release\WPF_RK_2.pdb
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\obj\Release\MainWindow.baml
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\obj\Release\MainWindow.g.cs
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\obj\Release\App.g.cs
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\obj\Release\WPF_RK_2_MarkupCompile.cache
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\obj\Release\WPF_RK_2.g.resources
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\obj\Release\WPF_RK_2.Properties.Resources.resources
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\obj\Release\WPF_RK_2.csproj.GenerateResource.Cache
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\obj\Release\WPF_RK_2.exe
+C:\Users\romch_000\documents\visual studio 2013\Projects\WPF_RK_2\WPF_RK_2\obj\Release\WPF_RK_2.pdb
